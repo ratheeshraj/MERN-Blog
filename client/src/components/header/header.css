@@ -1,0 +1,25 @@
+.header{
+    margin-top: 60px;
+
+}
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.headerTitlessm{
+    position: absolute;
+    top: 18%;
+    font-size: 100px;
+    
+}
+.headerTitlessmlg{
+    position: absolute;
+    top: 20%;
+    font-size: 10px;
+}
+.headerImg{
+    width: 100%;
+    height: 100vh;
+}
